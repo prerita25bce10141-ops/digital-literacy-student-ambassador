@@ -1,5 +1,7 @@
 Digital Literacy Student Ambassador: ReadMe
+
 Project Overview
+
 This project serves as a comprehensive portfolio for the Digital Literacy Student Ambassador initiative. It integrates technical proficiency, creative communication, and ethical awareness to promote a safer, more competent digital environment. The repository documents a journey from basic digital participation to professional mastery, covering everything from infographic design and cybersecurity case studies to Python-based technical validation.
 
 Name: Prerita Kukreja
